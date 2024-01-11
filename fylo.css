@@ -127,7 +127,7 @@ sup {
   vertical-align: text-top;
   font-size: 35px;
 }
-@media (min-width: 375px) {
+@media (min-width: 500px) {
   body {
     background-image: url(images/bg-desktop.png);
   }
